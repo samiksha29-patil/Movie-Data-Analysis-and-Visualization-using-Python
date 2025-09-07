@@ -30,6 +30,17 @@ The dataset contains the following columns:
 
 ---
 
+## visualization
+
+![Graph 1](https://raw.githubusercontent.com/samiksha29-patil/Movie-Data-Analysis-and-Visualization-using-Python/main/graph1.png)
+![Graph 2](https://raw.githubusercontent.com/samiksha29-patil/Movie-Data-Analysis-and-Visualization-using-Python/main/graph2.png)
+![Graph 3](https://raw.githubusercontent.com/samiksha29-patil/Movie-Data-Analysis-and-Visualization-using-Python/main/graph3.png)
+![Graph 4](https://raw.githubusercontent.com/samiksha29-patil/Movie-Data-Analysis-and-Visualization-using-Python/main/graph4.png)
+![Graph 5](https://raw.githubusercontent.com/samiksha29-patil/Movie-Data-Analysis-and-Visualization-using-Python/main/graph5.png)
+![Graph 6](https://raw.githubusercontent.com/samiksha29-patil/Movie-Data-Analysis-and-Visualization-using-Python/main/graph6.png)
+
+---
+
 ## 📊 Project Tasks  
 1. **Data Cleaning & Preprocessing**  
    - Handling missing values  
